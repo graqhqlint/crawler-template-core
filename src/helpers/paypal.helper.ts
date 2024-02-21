@@ -1,0 +1,6 @@
+export class PaypalHelper {
+    
+
+    constructor() {
+    }
+}
